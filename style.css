@@ -1,0 +1,48 @@
+/*
+Theme Name: Our Theme
+Author: x dev team
+Description: Our first theme.
+Version: 0.0.1
+*/
+html {
+    margin:0!important;
+    padding:0!important;
+}
+body {
+    margin:0;
+    padding:0;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    padding:1em;
+    background-color: #366ba4;
+    color:white;
+}
+header h2 {
+    margin:0;
+    padding:0;
+    color:white;
+}
+header a {
+    color:white;
+}
+footer {
+    padding:1em;
+    background-color: #366ba4;
+    color:white;
+}
+
+section.content {
+    padding:1rem;
+}
+
+section.content h3 {
+    margin:0;
+    padding:.4rem 0;
+    font-weight: normal;
+}
+
